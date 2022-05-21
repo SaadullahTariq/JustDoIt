@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Just Do It</string>
+    <string name="tasks">Tasks</string>
+    <string name="add_sign">Add Sign</string>
+    <string name="new_task">New Task</string>
+    <string name="save">Save</string>
+    <string name="sample_task">This is the sample task</string>
+</resources>
