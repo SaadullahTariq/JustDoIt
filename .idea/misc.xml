@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/JustDoIt/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.1" />
+        <entry key="..\:/Android Projects/JustDoIt/app/src/main/res/drawable/ic_baseline_edit.xml" value="0.166" />
         <entry key="..\:/Android Projects/JustDoIt/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Android Projects/JustDoIt/app/src/main/res/layout/activity_welcome.xml" value="0.17083333333333334" />
         <entry key="..\:/Android Projects/JustDoIt/app/src/main/res/layout/new_task.xml" value="0.33" />
